@@ -13,6 +13,7 @@
 [![Typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=#0076C6)][1]
 [![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react&logoColor=#00D8FF)][1]
 [![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux&logoColor=7248B5)][1]
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#E14B25)][1]
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#E84E31)][1]
 [![VisualStudio](https://img.shields.io/badge/-Visual%20studio-090909?style=for-the-badge&logo=Visual-Studio&logoColor=6296CC)][1]<br/>
 [![alt rank](https://www.codewars.com/users/Dimtriy811/badges/small)](https://www.codewars.com/users/Dimtriy811)
