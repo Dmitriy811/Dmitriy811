@@ -27,3 +27,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Dmitriy_quit)
 [![Spotify](https://img.shields.io/badge/-Spotyfy-090909?style=for-the-badge&logo=Spotify&logoColor=#1ED760)](https://open.spotify.com/user/315v24sksfs6pewgmmifg6zln4sm)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dovguchev/)
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy811&theme=midnight-purple&layout=compact)
+
