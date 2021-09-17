@@ -16,7 +16,10 @@
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#E14B25)][1]
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#E84E31)][1]
 [![VisualStudio](https://img.shields.io/badge/-Visual%20studio-090909?style=for-the-badge&logo=Visual-Studio&logoColor=6296CC)][1]<br/>
-[![alt rank](https://www.codewars.com/users/Dimtriy811/badges/small)](https://www.codewars.com/users/Dimtriy811)
+
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy811&theme=blue-green)](https://twitter.com/Hikari71126460)
+[![Top Langs](https://github-readme-codewars-stats.herokuapp.com/api/?username=Dimtriy811&card&customcolor=bg:040F0F_fg:1D1D1F_text:2E96C0_logo:B92F21_stroke:f75402)](https://www.linkedin.com/in/sergey-zhulym/)
 
 [1]: (https://github.com/Dmitriy811)
 
