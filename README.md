@@ -1,10 +1,5 @@
 ### Hi there :wave: Welcome to my Github profile
 
-[![Header](https://github.githubassets.com/images/mona-whisper.gif)]([1])
-[![Header](https://github.githubassets.com/images/mona-whisper.gif)]([1])
-[![Header](https://github.githubassets.com/images/mona-whisper.gif)]([1])
-[![Header](https://github.githubassets.com/images/mona-whisper.gif)]([1])
-
 ### Languages and Tools:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#E14B25)][1]
