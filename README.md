@@ -7,14 +7,18 @@
 [![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react&logoColor=#00D8FF)][1]
 [![redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux&logoColor=#7248B5)][1]
 [![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=#f7f200)][1]
-[![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#E84E31)][1]
 [![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#E14B25)][1]
 [![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=264DE4)][1]
-[![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=WEBPACK&logoColor=264DE4)][1]
-[![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP&logoColor=#b4cbfe)][1]
-[![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=CSS3&logoColor=#8877ee)][1]
+[![BOOSTRAP5](https://img.shields.io/badge/-BOOSTRAP5-090909?style=for-the-badge&logo=BOOSTRAP&logoColor=264DE4)][1]
+
 
 <br/>
+
+## Use tools 
+[![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#E84E31)][1]
+[![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=WEBPACK&logoColor=264DE4)][1]
+[![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP&logoColor=#b4cbfe)][1]
+[![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-090909?style=for-the-badge&logo=CSS3&logoColor=#8877ee)][1]
 
 ## Had experience with 
 
