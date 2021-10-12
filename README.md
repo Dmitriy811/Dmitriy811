@@ -12,8 +12,6 @@
 [![BOOSTRAP5](https://img.shields.io/badge/-BOOSTRAP5-090909?style=for-the-badge&logo=BOOSTRAP&logoColor=264DE4)][1]
 
 
-<br/>
-
 ## Use tools 
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#E84E31)][1]
 [![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=WEBPACK&logoColor=264DE4)][1]
