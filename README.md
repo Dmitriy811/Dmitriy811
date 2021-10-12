@@ -10,8 +10,20 @@
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#E84E31)][1]
 [![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#E14B25)][1]
 [![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=264DE4)][1]
-[![VisualStudio](https://img.shields.io/badge/-Visual%20studio-090909?style=for-the-badge&logo=Visual-Studio&logoColor=6296CC)][1]
+[![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=WEBPACK&logoColor=264DE4)][1]
+[![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP&logoColor=#b4cbfe)][1]
+[![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=CSS3&logoColor=#8877ee)][1]
+
 <br/>
+
+## Had experience with 
+
+[![salesforce](https://img.shields.io/badge/-salesforce-090909?style=for-the-badge&logo=salesforce&logoColor=264DE4)][1]
+[![APEX](https://img.shields.io/badge/-APEX-090909?style=for-the-badge&logo=APEX&logoColor=264DE4)][1]
+[![SQL](https://img.shields.io/badge/-mySQL-090909?style=for-the-badge&logo=mySQL&logoColor=264DE4)][1]
+[![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++&logoColor=6296CC)][1]
+[![BLENDER3D](https://img.shields.io/badge/-BLENDER3D-090909?style=for-the-badge&logo=BLENDER3D&logoColor=264DE4)][1]
+
 
 ### Follow Me:
 
