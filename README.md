@@ -26,10 +26,9 @@
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++&logoColor=6296CC)][1]
 
 
-### Follow Me:
+### Сontact with me:
 
 
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/Hikari71126460)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Dmitriy_quit)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dovguchev-dmitriy-735645213/)
 
