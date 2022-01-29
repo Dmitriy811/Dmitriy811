@@ -29,7 +29,7 @@
 ### Сontact with me:
 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Dmitriy_quit)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/hikari811)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dovguchev-dmitriy-735645213/)
 
 [![Top Langs](https://github-readme-codewars-stats.herokuapp.com/api/?username=Dimtriy811&card&customcolor=bg:040F0F_fg:1D1D1F_text:2E96C0_logo:B92F21_stroke:f75402)](https://www.linkedin.com/in/sergey-zhulym/)
